@@ -124,7 +124,7 @@ class Solution:
 
 
 # read the string text
-text = input("ENTER THE WORD = ")
+text = input("")
 
 # find the length of text
 length_of_text = len(text)
